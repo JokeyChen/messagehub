@@ -7,7 +7,7 @@
           <h2 class="subtitle">Transmit secret information safely</h2>
           <div class="hero-buttons">
             <router-link :to="{ name: 'Dashboard' }" class="button is-medium is-primary">Dashboard</router-link>
-            <router-link to="https://github.com/JokeyChen/messagehub" class="button is-medium">View Source</router-link>
+            <a href="https://github.com/JokeyChen/messagehub" class="button is-medium">View Source</a>
           </div>
         </div>
       </div>
@@ -86,7 +86,7 @@
           <h1 class="title">Get Started</h1>
           <div class="hero-buttons">
             <router-link :to="{ name: 'Dashboard' }" class="button is-medium is-primary">Dashboard</router-link>
-            <router-link to="https://github.com/JokeyChen/messagehub" class="button is-medium">View Source</router-link>
+            <a href="https://github.com/JokeyChen/messagehub" class="button is-medium">View Source</a>
           </div>
         </div>
       </div>
