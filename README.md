@@ -2,6 +2,9 @@
 
 > Transmit secret information safely
 
+## Backend API
+https://github.com/JokeyChen/messagehub-api
+
 ## Build Setup
 
 ``` bash
